@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.yubi.yubi_residente",
+            "sha256_cert_fingerprints": [
+                "7C:D1:4F:BC:68:FB:CC:E6:BD:0D:22:AB:60:8F:51:A0:44:3A:4E:9C:FC:AC:AE:2E:C8:06:90:9F:8A:3E:88:8D"
+            ]
+        }
+    }
+]
